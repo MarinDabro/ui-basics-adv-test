@@ -15,7 +15,7 @@ header {
     width: 100%;
     font-size: 1.3rem;
     border-bottom: 1px solid rgba(128, 128, 128, 0.65);
-    background-image: url(./images/hero.jpg);
+    background-image: url(hero.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
